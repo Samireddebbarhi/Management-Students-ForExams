@@ -14,11 +14,6 @@
 
 ##### <a href="https://www.eclipse.org/">ECLIPSE</a>
 
-## **Some Caption About this project**
-![login](src\main\webapp\images\interface1.jpeg)</br>
-![Management-services](src\main\webapp\images\interface2.jpeg)</br>
-![Management-students](src\main\webapp/images/interface3.jpeg)</br>
-![Management-responsables](src\main\webapp/images/interface4.jpeg)</br>
 
 ## _Created by:_
 
